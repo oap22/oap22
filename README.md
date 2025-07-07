@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @oap22
 - 👀 I’m interested in soccer, technology, and coding
-- 🌱 I’m currently learning Java in AP Computer Science 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently a Freshman at MSOE studying Computer Engineering
+- 📫 How to reach me [oap1722@gmail.com](https://msoe.joinhandshake.com/profiles/r4vvv3)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've played soccer almost my entire life
 
