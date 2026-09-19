@@ -7,9 +7,7 @@ Most of my time goes toward research code and tools that make technical work eas
 ## What I am working on
 
 - Studying how deep blending in weak gravitational lensing can bias galaxy cluster mass estimates.
-- Building Turing, an autonomous research agent with a keyboard-first desktop workspace.
 - Developing UsageWatcher, a native macOS menu bar app for tracking AI subscription limits.
-- Improving a portable workflow system for doing research and software development with coding agents.
 
 ## Recent work
 
@@ -17,12 +15,15 @@ Most of my time goes toward research code and tools that make technical work eas
 - Built simulation geometry for a six-building NVIDIA Isaac Sim digital twin used in autonomous robotics research.
 - Placed second at Hack 4 Health with a team that built a Qdrant-backed RAG layer for patient-friendly medical summaries.
 
-## A few public projects
+## What I am most passionate about
 
-- [MedGemma embedding research](https://github.com/oap22/med-gemma-embedding-research), experiments with medical-image embeddings.
-- [Lung Nodules Classifier](https://github.com/oap22/Lung-Nodules-Classifier), machine learning with the LIDC/IDRI lung nodule dataset.
-- [BitNet and Ollama benchmarking](https://github.com/oap22/BitNet-Ollama-benchmarking), local model performance experiments.
-- [MNIST Model Interactive](https://github.com/oap22/MNIST-Model-Interactive), a small interface for testing a handwritten-digit model.
+### [Turing](https://github.com/oap22/Turing)
+
+An autonomous research agent with a keyboard-first desktop workspace. Give it a goal and a verifier, and it iterates until the verifier passes or a cap trips. The verifier is frozen: the agent invents, and the operator holds the ruler. The Tauri desktop app tiles real terminals, live training charts, and coding-agent session viewers, all driven by plain files that coding agents can read and write too.
+
+### [Owen's Agent System](https://github.com/oap22/owens-agent-system)
+
+A portable workflow kit for research, development, everyday operations, and learning with coding agents. Every substantial task follows one loop (Frame, Work, Prove, Hand off, Reflect) and ends with a retrospective that files one implementation-ready issue. It runs across Codex, Claude Code, Cursor, GitHub Copilot, and OpenCode.
 
 ## Get in touch
 
