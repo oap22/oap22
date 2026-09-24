@@ -25,6 +25,10 @@ An autonomous research agent with a keyboard-first desktop workspace. Give it a 
 
 A portable workflow kit for research, development, everyday operations, and learning with coding agents. Every substantial task follows one loop (Frame, Work, Prove, Hand off, Reflect) and ends with a retrospective that files one implementation-ready issue. It runs across Codex, Claude Code, Cursor, GitHub Copilot, and OpenCode.
 
+### [Skills](https://github.com/oap22/skills)
+
+The single source for every agent skill I use. Each skill is a folder with a `SKILL.md`, and one install script links the whole catalog into Claude Code, Codex, Cursor, Gemini, and my Obsidian vault, so a skill is written once and every agent reads the same version. It holds more than 40 skills, from research experiment loops and cluster job dispatch to a tutoring mode that refuses to write my homework, and CI validates the catalog on every change.
+
 ## Get in touch
 
 [Portfolio](https://owenpacetti.com/) · [LinkedIn](https://www.linkedin.com/in/owen-pacetti/) · [Email](mailto:oap1722@gmail.com)
